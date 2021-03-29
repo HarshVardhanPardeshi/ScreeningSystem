@@ -1,1 +1,1 @@
-# ScreeningSystem
+Covid Medical Screening System
